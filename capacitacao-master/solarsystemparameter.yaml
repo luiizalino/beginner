@@ -1,0 +1,11 @@
+Planet:
+Mercury_orbitRadius: 0.39
+Venus_orbitRadius: 0.72
+Earth_orbitRadius: 1.0
+name: Mars_orbitRadius: 1.52
+Jupiter_orbitRadius: 5.21
+Saturn_orbitRadius: 9.54
+Uranus_orbitRadius: 19.18
+Neptune_orbitRadius: 30.11
+Moon_orbitRadius: 1.5
+
